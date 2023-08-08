@@ -1,0 +1,87 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Array16",
+      "request": "launch",
+      "mainClass": "Array16",
+      "projectName": "Douglas DS MATUTINO_47b3a798"
+    },
+    {
+      "type": "java",
+      "name": "Array15",
+      "request": "launch",
+      "mainClass": "Array15",
+      "projectName": "Douglas DS MATUTINO_47b3a798"
+    },
+    {
+      "type": "java",
+      "name": "Array14",
+      "request": "launch",
+      "mainClass": "Array14",
+      "projectName": "Douglas DS MATUTINO_47b3a798"
+    },
+    {
+      "type": "java",
+      "name": "Array13",
+      "request": "launch",
+      "mainClass": "Array13",
+      "projectName": "Douglas DS MATUTINO_47b3a798"
+    },
+    {
+      "type": "java",
+      "name": "Array11",
+      "request": "launch",
+      "mainClass": "Array11",
+      "projectName": "Douglas DS MATUTINO_47b3a798"
+    },
+    {
+      "type": "java",
+      "name": "exercicio5",
+      "request": "launch",
+      "mainClass": "exercicio5",
+      "projectName": "Douglas DS MATUTINO_47b3a798"
+    },
+    {
+      "type": "java",
+      "name": "exercicio2",
+      "request": "launch",
+      "mainClass": "exercicio2",
+      "projectName": "Douglas DS MATUTINO_47b3a798"
+    },
+    {
+      "type": "java",
+      "name": "HelloWolrd",
+      "request": "launch",
+      "mainClass": "HelloWolrd",
+      "projectName": "Douglas DS MATUTINO_47b3a798"
+    },
+    {
+      "type": "java",
+      "name": "HelloWolrd",
+      "request": "launch",
+      "mainClass": "java.HelloWolrd",
+      "projectName": "Douglas DS MATUTINO_47b3a798"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Alunos/Documents/Douglas DS MATUTINO",
+      "program": "d:/Alunos/Documents/Douglas DS MATUTINO/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
